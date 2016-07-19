@@ -1,5 +1,5 @@
 {
-  "name": "nodef",
+  "name": "nodef-app",
   "version": "1.0.0",
   "description": "Easily create and access your node scripts and projects via URL Endpoints.",
   "main": "server.js",
