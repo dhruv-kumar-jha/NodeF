@@ -12,7 +12,10 @@ Your script will run in a **separate process** and will have access to
 <br />
 ### Installation
 
-You can install this module by running `npm install nodef-app --save`
+For now the best way to use this module is to clone this repository and run `npm install`,
+Don't forget to do the same in `examples/jsonapi` folder.
+
+IN FUTURE: you can install this module by running `npm install nodef-app --save`
 
 
 <br />
