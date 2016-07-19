@@ -1,0 +1,51 @@
+{
+  "name": "nodef",
+  "version": "1.0.0",
+  "description": "Easily create and access your node scripts and projects via URL Endpoints.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon index.js --exec babel-node --presets es2015,stage-2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruv-kumar-jha/NodeF.git"
+  },
+  "keywords": [
+    "Node",
+    "Js",
+    "NodeF",
+    "Node",
+    "Functions",
+    "Node",
+    "API",
+    "Node",
+    "Script",
+    "Endpoints",
+    "Node",
+    "Lambda",
+    "Node",
+    "Lambda",
+    "Server",
+    "Node",
+    "Js",
+    "Lambda",
+    "Functions"
+  ],
+  "author": "dhruv@dhruvkumarjha.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhruv-kumar-jha/NodeF/issues"
+  },
+  "homepage": "https://github.com/dhruv-kumar-jha/NodeF#readme",
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "express": "4.14.0"
+  },
+  "devDependencies": {
+    "babel-cli": "6.10.1",
+    "babel-preset-es2015": "6.9.0",
+    "babel-preset-stage-2": "6.11.0",
+    "babel-register": "6.9.0",
+    "nodemon": "1.9.2"
+  }
+}
